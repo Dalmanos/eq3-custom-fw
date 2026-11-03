@@ -4,7 +4,7 @@
 
 All the added features, fixes and optimisations this firmware has are in the **[changelog](CHANGELOG.md)**.
 
-## ▶ [Open the app: dbuezas.github.io/eq3-custom-fw](https://dbuezas.github.io/eq3-custom-fw/)
+## ▶ [Open the app: dalmanos.github.io/eq3-custom-fw](https://dalmanos.github.io/eq3-custom-fw/)
 
 It runs in your browser, talks to the thermostat over Bluetooth, and needs nothing installed.
 
